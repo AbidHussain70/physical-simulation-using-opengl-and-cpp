@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/pendulum.h
+
+/home/abid/PhysicsSimulation/PendulumSimulation/src/main.cpp
+GL/glut.h
+-
+pendulum.h
+/home/abid/PhysicsSimulation/PendulumSimulation/src/pendulum.h
+iostream
+-
+cmath
+-
+
+/home/abid/PhysicsSimulation/PendulumSimulation/src/pendulum.cpp
+pendulum.h
+/home/abid/PhysicsSimulation/PendulumSimulation/src/pendulum.h
+cmath
+-
+

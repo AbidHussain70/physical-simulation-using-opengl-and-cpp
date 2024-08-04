@@ -1,0 +1,3 @@
+/home/abid/PhysicsSimulation/PendulumSimulation/build/CMakeFiles/rebuild_cache.dir
+/home/abid/PhysicsSimulation/PendulumSimulation/build/CMakeFiles/edit_cache.dir
+/home/abid/PhysicsSimulation/PendulumSimulation/build/CMakeFiles/PendulumSimulation.dir
